@@ -1,6 +1,6 @@
 # Developers
 
-## Kendry Carvajal
+Kendry Carvajal
 
 # Frontend Mentor - 3-column preview card component
 
